@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/REDLAIN228/Program/main/assets/github-profile-banner.svg" width="100%" alt="REDLAIN / DEVLOG"/>
+<img src="assets/profile-banner.svg" width="100%" alt="REDLAIN / DEVLOG"/>
 
 ### Привет, я REDLAIN 👋
 
